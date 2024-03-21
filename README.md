@@ -1,17 +1,20 @@
 SnackBox - SUPER RETRO GAME CONSOLE
 
-powered by Raspberry Pi Pico 
+Powered by Raspberry Pi Pico 
 
 MicroPhyton 
 
-firmware:
+Firmware:
 https://micropython.org/download/RPI_PICO/
+
+Software for uploading code, testing and debugging:
+https://thonny.org/blog/2018/06/05/thonny_and_micropython.html
 
 ssd1306.py - library for display
 
 main.py - games code: pong, moon lander, Moto GP (switching with the button to the right)
 
-Test code and HW:
+Easy test code:
 https://wokwi.com/projects/392972206923848705
 
 ![obrazek](https://github.com/Hellmole/Rasberry-pi-pico-games/assets/149156309/32749bf2-26cf-4102-88f0-1f46b9533160)
