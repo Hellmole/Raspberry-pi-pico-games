@@ -7,15 +7,15 @@ MicroPhyton
 Firmware:
 https://micropython.org/download/RPI_PICO/
 
-Software for uploading code, testing and debugging:
+Online web app for easy testing and debugging:
+https://wokwi.com/projects/392972206923848705
+
+Software for writing and uploading code :
 https://thonny.org/blog/2018/06/05/thonny_and_micropython.html
 
 ssd1306.py - library for display
 
 main.py - games code: pong, moon lander, Moto GP (switching with the button to the right)
-
-Easy test code:
-https://wokwi.com/projects/392972206923848705
 
 ![obrazek](https://github.com/Hellmole/Rasberry-pi-pico-games/assets/149156309/32749bf2-26cf-4102-88f0-1f46b9533160)
 ![obrazek](https://github.com/Hellmole/Rasberry-pi-pico-games/assets/149156309/b2f4f96f-30f2-4982-b554-66fab6cb806e)
