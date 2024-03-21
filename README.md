@@ -9,7 +9,7 @@ https://micropython.org/download/RPI_PICO/
 
 ssd1306.py - library for display
 
-myin.py - games code: pong, moon lander, Moto GP (switching with the button to the right)
+main.py - games code: pong, moon lander, Moto GP (switching with the button to the right)
 
 Test code and HW:
 https://wokwi.com/projects/392972206923848705
