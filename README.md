@@ -1,4 +1,4 @@
-SnackBox - SUPER RETRO GAME CONSOLE
+# SnackBox - SUPER RETRO GAME CONSOLE
 
 Powered by Raspberry Pi Pico 
 
