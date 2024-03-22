@@ -5,24 +5,27 @@ Powered by Raspberry Pi Pico
 MicroPhyton 
 
 Firmware:
-https://micropython.org/download/RPI_PICO/
+ https://micropython.org/download/RPI_PICO/
 
 Online web app for easy testing, debugging and wiring diagram (buttons, display, RPI_pico):
-https://wokwi.com/projects/393069582426489857
+ https://wokwi.com/projects/393069582426489857
 
 Software for writing and uploading code :
-https://thonny.org/blog/2018/06/05/thonny_and_micropython.html
+ https://thonny.org/blog/2018/06/05/thonny_and_micropython.html
 
 ssd1306.py - library for display
 
-main.py - games code (game switching with the button to the completely right)
+main.py - games code 
+ game switching with the button to the completely right
 
-pong - controlol: left and right buttons 
+Pong 
+ controlol: left and right buttons 
 
-moon lander - control: up button
+Moon lander 
+ control: up button
 
-
-Moto GP - controlol: left and right buttons 
+Moto GP 
+ controlol: left and right buttons 
 
 
 ![obrazek](https://github.com/Hellmole/Rasberry-pi-pico-games/assets/149156309/32749bf2-26cf-4102-88f0-1f46b9533160)
