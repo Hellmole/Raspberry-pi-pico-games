@@ -129,6 +129,7 @@ def hra_modul():
     y_pos2 = 2
     ggg= 1
     fuel = 25
+    tryska = 0
     
     tlacitko2 = Pin(20, Pin.IN, Pin.PULL_UP)
     tlacitko3 = Pin(3, Pin.IN, Pin.PULL_UP)
@@ -140,7 +141,8 @@ def hra_modul():
         if not tlacitko3.value():  
            return
     
-        if not tlacitko2.value():  
+        if not tlacitko2.value():
+            tryska = 1
             ggg = ggg - 5
             fuel = fuel - 1 
 
@@ -155,12 +157,16 @@ def hra_modul():
 
         # Vykreslení modulu
         oled.rect(6 + x_pos2, 3 + y_pos2, 5, 5, 1)
-        oled.vline(5 + x_pos2, 5 + y_pos2, 5, 20)
-        oled.vline(11 + x_pos2, 5 + y_pos2, 5, 20)
+        oled.vline(5 + x_pos2, 5 + y_pos2, 5, 1)
+        oled.vline(11 + x_pos2, 5 + y_pos2, 5, 1)
         oled.rect(7 + x_pos2, 1 + y_pos2, 3, 4 , 1)
 
         # Vykresleni plochy
         oled.rect(100, 62, 14, 2, 1)
+        
+        if tryska == 1:
+            oled.vline(8 + x_pos2, 11 + y_pos2, 8, 1)
+            tryska = 0
 
         x_pos2 = x_pos2 + ran 
         y_pos2 = y_pos2 + smer3
@@ -226,7 +232,7 @@ def hra_moto():
     level = 1
     posun = 0
     y_pos3 = 1
-    debug = 0
+    y_souper = 0
     naraz = 0
 
     tlacitko = Pin(7, Pin.IN, Pin.PULL_UP)
@@ -251,7 +257,7 @@ def hra_moto():
             naklon = -4
     
         # Vymazání displeje aZobrazení Score
-        debug = ran + y
+        y_souper = ran + y
         oled.text("Score:" + str(score), 0, 0)
         oled.text(str(score * 5) + " km/h", 70, 0)
     
@@ -320,7 +326,7 @@ def hra_moto():
         if x_pos >=  46 or x_pos < -46:       
             naraz = 1
 
-        if x_pos <= debug + 4  and x_pos >= debug - 4 and prekazka >= 15:       
+        if x_pos <= y_souper + 4  and x_pos >= y_souper - 4 and prekazka >= 15:       
             naraz = 1
 
 
@@ -346,7 +352,7 @@ def hra_moto():
             level = 1
             posun = 0
             y_pos3 = 1
-            debug = 0
+            y_souper = 0
             naraz = 0
 
         time.sleep(0.1)  
@@ -376,3 +382,4 @@ def hlavni_menu():
         time.sleep(2)
         hra_moto()      
 hlavni_menu()
+
