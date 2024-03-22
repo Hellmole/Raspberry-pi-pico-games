@@ -11,6 +11,7 @@ Online web app for easy testing, debugging and wiring diagram (buttons, display,
  https://wokwi.com/projects/393069582426489857
 
 Software for writing and uploading code :
+
  https://thonny.org/blog/2018/06/05/thonny_and_micropython.html
 
 ssd1306.py - library for display
