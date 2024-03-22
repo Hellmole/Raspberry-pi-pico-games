@@ -13,7 +13,8 @@ Software for writing and uploading code: https://thonny.org/blog/2018/06/05/thon
 
 ssd1306.py - library for display
 
-main.py - games code: games switching with the button to the completely right
+main.py - games code:
+switching between games with the button in the lower right corner
 
 Pong - controlol: left and right buttons 
 
