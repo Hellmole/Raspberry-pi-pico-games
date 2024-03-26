@@ -338,7 +338,7 @@ def game_moto():
 
     
 
-def hlavni_menu():
+def main_menu():
 
     while True:
          
@@ -359,5 +359,5 @@ def hlavni_menu():
         oled.show()
         time.sleep(2)
         game_moto()      
-hlavni_menu()
+main_menu()
 
