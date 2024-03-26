@@ -7,7 +7,7 @@ MicroPhyton
 Firmware:
  https://micropython.org/download/RPI_PICO/
 
-Online web app for easy testing, debugging and wiring diagram (buttons, display, RPI_pico): https://wokwi.com/projects/393069582426489857
+Online web app for easy testing, debugging and wiring diagram (buttons, display, RPI_pico): https://wokwi.com/projects/393411439386336257
 
 Software for writing and uploading code: https://thonny.org/blog/2018/06/05/thonny_and_micropython.html
 
