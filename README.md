@@ -6,7 +6,8 @@
 
 Online web app for easy testing, debugging and wiring diagram (buttons, display, RPI_pico): <a href="https://wokwi.com/projects/393411439386336257">click here </a>
 
-Software for writing and uploading code: <a href="https://thonny.org/blog/2018/06/05/thonny_and_micropython.html">click here </a> 
+Software for writing and uploading code:
+<a href="https://thonny.org/blog/2018/06/05/thonny_and_micropython.html">click here </a>
 
 <B> ssd1306.py </B> - library for display
 
