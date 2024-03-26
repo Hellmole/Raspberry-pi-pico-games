@@ -4,18 +4,16 @@ Powered by Raspberry Pi Pico
 
 MicroPhyton - firmware: <a href=" https://micropython.org/download/RPI_PICO/">click here</a>
 
+Online web app for easy testing, debugging and wiring diagram (buttons, display, RPI_pico): <a href="https://wokwi.com/projects/393411439386336257">click here</a>
 
-
-Online web app for easy testing, debugging and wiring diagram (buttons, display, RPI_pico):
-[click here](https://wokwi.com/projects/393411439386336257)
-
-
-Software for writing and uploading code: https://thonny.org/blog/2018/06/05/thonny_and_micropython.html
+Software for writing and uploading code: <a href="https://thonny.org/blog/2018/06/05/thonny_and_micropython.html">click here</a> 
 
 ssd1306.py - library for display
 
 main.py - games code:
 switching between games with the button in the lower right corner
+
+<a https://github.com/Hellmole/Rasberry-pi-pico-games">files for download here</a>
 
 Pong - controlol: left and right buttons 
 
