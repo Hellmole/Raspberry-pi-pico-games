@@ -7,7 +7,7 @@ oled = SSD1306_I2C(128, 64, i2c)
 hra = 0
 
 oled.fill(0)  
-oled.text("SnackBox v1.0", 5, 6)
+oled.text("PicoBox v1.0", 5, 6)
 oled.text("By Kuba", 30, 23)
 oled.text("&", 55, 35)
 oled.text("Stepan", 35, 47)
