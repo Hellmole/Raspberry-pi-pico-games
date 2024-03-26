@@ -1,6 +1,6 @@
 # PicoBox - SUPER RETRO GAME CONSOLE
 
-<b> Powered by Raspberry Pi Pico </b>
+<b> - Powered by Raspberry Pi Pico </b>
 
 <b> MicroPhyton - firmware: </b> <a href=" https://micropython.org/download/RPI_PICO/">click here</a>
 
