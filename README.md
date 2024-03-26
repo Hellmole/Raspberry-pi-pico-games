@@ -1,20 +1,22 @@
 # PicoBox - SUPER RETRO GAME CONSOLE
 
-<H1> Powered by Raspberry Pi Pico </H1>
+<b> Powered by Raspberry Pi Pico </b>
 
-<B> MicroPhyton - firmware: </B> <a href=" https://micropython.org/download/RPI_PICO/">click here</a>
+<b> MicroPhyton - firmware: </b> <a href=" https://micropython.org/download/RPI_PICO/">click here</a>
 
 Online web app for easy testing, debugging and wiring diagram (buttons, display, RPI_pico): <a href="https://wokwi.com/projects/393411439386336257">click here </a>
 
 Software for writing and uploading code:
 <a href="https://thonny.org/blog/2018/06/05/thonny_and_micropython.html">click here </a>
 
-<B> ssd1306.py </B> - library for display
+<b> ssd1306.py </b> - library for display
 
-<B> main.py </B> - games code:
+<b> main.py </b> - games code:
 switching between games with the button in the lower right corner
 
 <a href= "https://github.com/Hellmole/Rasberry-pi-pico-games">files for download here</a>
+
+Games:
 
 Pong - controlol: left and right buttons 
 
