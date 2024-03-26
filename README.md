@@ -18,9 +18,9 @@ switching between games with the button in the lower right corner
 
 Pong - controlol: left and right buttons 
 
-Moon lander - control: up button
+Lunar module - control: up button
 
-Moto GP - controlol: left and right buttons 
+Full speed - controlol: left and right buttons 
 
 ![obrazek](https://github.com/Hellmole/Rasberry-pi-pico-games/assets/149156309/01298f36-ff48-4066-9f4c-a2ab17108458)
 ![obrazek](https://github.com/Hellmole/Rasberry-pi-pico-games/assets/149156309/b2f4f96f-30f2-4982-b554-66fab6cb806e)
