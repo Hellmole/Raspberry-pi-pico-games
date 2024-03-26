@@ -29,6 +29,8 @@ Full speed - controlol: left and right buttons
 ![obrazek](https://github.com/Hellmole/Rasberry-pi-pico-games/assets/149156309/2e743311-26dd-40e4-b73f-a4ef2d58f332)
 ![obrazek](https://github.com/Hellmole/Rasberry-pi-pico-games/assets/149156309/3a45bbd4-a0f8-427f-967a-2fb3f69aa238)
 ![obrazek](https://github.com/Hellmole/Rasberry-pi-pico-games/assets/149156309/e59907ff-3dfc-48a1-b67b-b7e7e9c3085a)
+![obrazek](https://github.com/Hellmole/Raspberry-pi-pico-games/assets/149156309/bb3b8b62-c260-493f-b669-0fda91e4bcaa)
+
 
 Hellmole
 
