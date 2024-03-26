@@ -14,7 +14,7 @@ Software for writing and uploading code:
 <B> main.py </B> - games code:
 switching between games with the button in the lower right corner
 
-<a https://github.com/Hellmole/Rasberry-pi-pico-games">files for download here</a>
+<a href= "https://github.com/Hellmole/Rasberry-pi-pico-games">files for download here</a>
 
 Pong - controlol: left and right buttons 
 
