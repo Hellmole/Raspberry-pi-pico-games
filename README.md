@@ -2,10 +2,9 @@
 
 Powered by Raspberry Pi Pico 
 
-MicroPhyton 
+MicroPhyton - firmware: <a href=" https://micropython.org/download/RPI_PICO/">click here</a>
 
-Firmware:
- https://micropython.org/download/RPI_PICO/
+
 
 Online web app for easy testing, debugging and wiring diagram (buttons, display, RPI_pico):
 [click here](https://wokwi.com/projects/393411439386336257)
