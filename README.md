@@ -5,9 +5,9 @@
 <b> MicroPhyton - firmware: </b> 
 <a href="https://micropython.org/download/RPI_PICO/">click here</a>
 
-Online web app for easy testing, debugging and wiring diagram (buttons, display, RPI_pico): <a href="https://wokwi.com/projects/393411439386336257">click here </a>
+<b>Wokwi</b> - online web app for easy testing, debugging and wiring diagram (buttons, display, RPI_pico): <a href="https://wokwi.com/projects/393411439386336257">click here </a>
 
-Software for writing and uploading code:
+<b>Thonny</> - software for writing and uploading code:
 <a href="https://thonny.org/blog/2018/06/05/thonny_and_micropython.html">click here </a>
 
 <b> ssd1306.py </b> - library for display
