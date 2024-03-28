@@ -2,7 +2,7 @@
 
 <b>Powered by Raspberry Pi Pico </b>
 
-<b> MicroPhyton - firmware: </b> 
+<b> MicroPhyton - firmware for RPI Pico: </b> 
 <a href="https://micropython.org/download/RPI_PICO/">click here</a>
 
 <b>Wokwi</b> - online web app for easy testing, debugging and wiring diagram (buttons, display, RPI_pico): <a href="https://wokwi.com/projects/393411439386336257">click here </a>
