@@ -1,3 +1,10 @@
+Next game:
+
+Age of Flying Legends (control your fleet of airships - strategy game in JS) https://github.com/Hellmole/JavaScript-strategy-game
+
+Balon simulator (landing with a balloon in JS) https://github.com/Hellmole/JavaScript-ballon-simulator
+
+
 # PicoBox - SUPER RETRO GAME CONSOLE
 
 <b>Powered by Raspberry Pi Pico </b>
