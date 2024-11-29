@@ -32,6 +32,14 @@ Full speed - controlol: left and right buttons
 ![obrazek](https://github.com/Hellmole/Rasberry-pi-pico-games/assets/149156309/e59907ff-3dfc-48a1-b67b-b7e7e9c3085a)
 ![obrazek](https://github.com/Hellmole/Raspberry-pi-pico-games/assets/149156309/bb3b8b62-c260-493f-b669-0fda91e4bcaa)
 
+Next game:
+
+Age of Flying Legends (control your fleet of airships - strategy game in JS)
+https://github.com/Hellmole/JavaScript-strategy-game
+
+Balon simulator (landing with a balloon in JS)
+https://github.com/Hellmole/JavaScript-ballon-simulator
+
 
 Hellmole
 
